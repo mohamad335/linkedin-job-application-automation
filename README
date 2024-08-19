@@ -1,0 +1,5 @@
+as you sse our project is to create automate linkedin job
+by using selenuim we open the chrome of linkedin 
+then we get sign in by using By method to sign in 
+then we get the input of email and phone number and put the information
+then we apply for a job 
